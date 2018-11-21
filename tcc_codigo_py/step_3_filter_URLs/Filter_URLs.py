@@ -73,8 +73,8 @@ list_set_domi = set()
 count = 0
 
 # esse bloco de código verifica se há alguma sigla na lista de URLs que tenham .gov
-with open(path_step_3 + "list_acronyms.txt", "r") as f_list_sigla:
-    with open(path_step_3 + "URLs_.gov.txt", "r") as f_gov:
+with open(path_step_3 + "list_acronyms.txt", "r", encoding="utf-8") as f_list_sigla:
+    with open(path_step_3 + "URLs_.gov.txt", "r", encoding="utf-8") as f_gov:
         for line_acronyms in f_list_sigla.readlines():
             for line_url in f_gov.readlines():
                 if line_acronyms in line_url:

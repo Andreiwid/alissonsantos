@@ -34,7 +34,7 @@ def get_last_insert_DB():
     myresult = mycursor.fetchall()
     return myresult[0][0]
 
-with open(path_dataset_step_1+"/types the file.html","r") as f_read_file_type:
+with open(path_dataset_step_1+"/types the file.html","r", encoding="utf-8") as f_read_file_type:
     soup_file_type = BeautifulSoup(f_read_file_type,'html5lib')
 
 # Usa-se uma URL semelhante a esta
@@ -62,7 +62,7 @@ os.remove(path_dataset_step_2 + path_indexes_fractions_indexing \
           +name_indexing+".wat.paths.gz")
 
 with open(path_dataset_step_2 + path_indexes_fractions_indexing \
-          +name_indexing+".txt","r") as f_read_indice_fracao_txt:
+          +name_indexing+".txt","r", encoding="utf-8") as f_read_indice_fracao_txt:
     list_fractions = []
     for line in f_read_indice_fracao_txt.readlines():
         list_fractions.append(line)
@@ -86,7 +86,7 @@ while index_fraction < len(list_fractions):
         urlretrieve(path_url + "/" + list_fractions[index_fraction], path_index_fraction_compacted)
         data_current = datetime.now()
         data_formated = data_current.strftime("%d/%m/%Y %H:%M:%S")
-        print("\nA data e hora do erro é {}".format(data_formated))
+        print("\nA data e hora do termíno do download é {}".format(data_formated))
     except ValueError:
         print("Oops!  Não foi possível baixar este file"+path_url + "/" + list_fractions[index_fraction], path_index_fraction_compacted)
 

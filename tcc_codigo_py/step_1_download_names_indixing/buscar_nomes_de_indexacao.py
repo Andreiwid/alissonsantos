@@ -66,13 +66,5 @@ if count_indix < len(list_URL_acess_index_monthly)-6:
 with open(path_web_scraping+file_pag_types,"w") as f_file_type:
     f_file_type.write(types_files.text)
 
-# irei retornar essa variavel para o arquivo start com a
-# quantidade de indexações que existem
-# with open(path_web_scraping+file_pag_types,"r") as o:
-#     quantidade_indexacoes = 0
-#     for line in o.readline():
-#         quantidade_indexacoes += 1
-
-
 gc.collect()
 subprocess.call([sys.executable, 'step_2_download_fractions_indixing/manipulation_fractions_indexing.py'])
