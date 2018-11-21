@@ -3,6 +3,7 @@
 <br />
 <br />
 <p>
+ 
  ### Objetivo geral: ### <br /> 
 * O objetivo deste trabalho foi desenvolver um método de catalogação de portais de dados abertos a partir de URLs indexadas no Common Crawl.<br />
   <br />
