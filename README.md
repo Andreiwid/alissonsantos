@@ -16,6 +16,8 @@
 <p>
  
  # Instruções: <br />
+ ## Para este trabalho foi utilizado o Python 3 <br />
+ Para a instalação das bibliotecas utilizadas utilizei este [tutorial](http://blog.abraseucodigo.com.br/instalando-qualquer-versao-do-python-no-linux-macosx-utilizando-pyenv.html)
  ## Este projeto esta dividido em duas partes
  </p>
  <p>
@@ -25,8 +27,8 @@
  Para rodar a primeira parte após o download do projeto vá via terminal até o arquivo start.py que esta na raiz do projeto e digite o comando: python start.py
  <br />
  
+ ## A segunda que é analisado se as URLs .gov respondem a alguma assinatura, (para mais detalhes por favor leia o pdf do TCC).  
  
- e a segunda que é analisado se as URLs .gov respondem a alguma assinatura, (para mais detalhes por favor leia o pdf do TCC).  
  
  
  
