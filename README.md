@@ -3,12 +3,12 @@
 <br />
 <br />
 <p>
-  Objetivo geral deste trabalho foi:   
-* O objetivo deste trabalho foi desenvolver um método de catalogação de portais de dados abertos a partir de URLs indexadas no Common Crawl.
+  Objetivo geral deste trabalho foi:<br />   
+* O objetivo deste trabalho foi desenvolver um método de catalogação de portais de dados abertos a partir de URLs indexadas no Common Crawl.<br />
   <br />
-  Objetivos específicos
-  * Desenvolver um método de acesso aos dados do Common Crawl;
-  * Desenvolver um método que implemente e use  as assinaturas de identificação das quatro plataformas de dados abertos consideradas;
-  * Modelar um banco de dados para a catalogação;
-  * Definir um modelo para automatizar o processo para funcionar em larga escala e repetidamente usando como parâmetros as URLs que tenham o sufixo .gov ou sinônimos do mesmo utilizados em outros idiomas/culturas.
+  Objetivos específicos: <br />
+  * Desenvolver um método de acesso aos dados do Common Crawl;<br />
+  * Desenvolver um método que implemente e use  as assinaturas de identificação das quatro plataformas de dados abertos consideradas;<br />
+  * Modelar um banco de dados para a catalogação;<br />
+  * Definir um modelo para automatizar o processo para funcionar em larga escala e repetidamente usando como parâmetros as URLs que tenham o sufixo .gov ou sinônimos do mesmo utilizados em outros idiomas/culturas.<br />
 </p>
