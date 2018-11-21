@@ -35,5 +35,5 @@
   </p>
   <p>
  
-  ## Para mais detalhes sobre o projeto favor leia o PDF do trabalho. 
+  ### Para mais detalhes sobre o projeto favor leia o PDF do trabalho. 
 </p>
