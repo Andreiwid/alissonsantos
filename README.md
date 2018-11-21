@@ -14,10 +14,12 @@
 </p>
 
 <p>
+ 
  # Instruções: <br />
  ## Este projeto esta dividido em duas partes
  </p>
  <p>
+ 
  ### A primeira onde é feito o download e rastreio de URLs com a sigla .gov na base de dados do Common Crawl.
  </p>
  Para rodar a primeira parte após o download do projeto vá via terminal até o arquivo start.py que esta na raiz do projeto e digite o comando: python start.py
