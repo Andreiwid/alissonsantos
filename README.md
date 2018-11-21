@@ -12,3 +12,20 @@
   * Modelar um banco de dados para a catalogação;<br />
   * Definir um modelo para automatizar o processo para funcionar em larga escala e repetidamente usando como parâmetros as URLs que tenham o sufixo .gov ou sinônimos do mesmo utilizados em outros idiomas/culturas.<br />
 </p>
+
+<p>
+ # Instruções: <br />
+ ## Este projeto esta dividido em duas partes
+ </p>
+ <p>
+ ### A primeira onde é feito o download e rastreio de URLs com a sigla .gov na base de dados do Common Crawl.
+ </p>
+ Para rodar a primeira parte após o download do projeto vá via terminal até o arquivo start.py que esta na raiz do projeto e digite o comando: python start.py
+ <br />
+ 
+ 
+ e a segunda que é analisado se as URLs .gov respondem a alguma assinatura, (para mais detalhes por favor leia o pdf do TCC).  
+ 
+ 
+ 
+</p>
