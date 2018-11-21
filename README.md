@@ -28,9 +28,12 @@
  
  ## A segunda que é analisado se as URLs .gov respondem a alguma assinatura, (para mais detalhes por favor leia o pdf do TCC).  
  <br />
+ 
  <p>
  
   ### A segunda parte esta no diretório DataScience-TCC e para executar estes scripts é necessário o uso do Jupyter Notebook, que se você instalou o anaconda já veio com ele.
-  
+  </p>
+  <p>
+ 
   ## Para mais detalhes sobre o projeto favor leia o PDF do trabalho. 
-
+</p>
