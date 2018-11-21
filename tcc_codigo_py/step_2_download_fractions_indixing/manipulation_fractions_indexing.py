@@ -21,8 +21,8 @@ path_url = 'https://commoncrawl.s3.amazonaws.com'
 
 mydb = mysql.connector.connect(
         host="localhost",
-        user="root",
-        passwd="ControleRemoto1",
+        user="",
+        passwd="",
         database="TCC"
     )
 

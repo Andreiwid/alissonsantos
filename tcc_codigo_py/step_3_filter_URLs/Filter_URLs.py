@@ -24,7 +24,7 @@ lista_assinaturas = [ckan_sig, socrata_sig, arcgis_sig__odsoft_sig]
 
 mydb = mysql.connector.connect(
         host="localhost",
-        user="root",
+        user="",
         passwd="",
         database="TCC"
     )
