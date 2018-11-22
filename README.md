@@ -32,6 +32,7 @@
  <p>
  
   ### A segunda parte esta no diretório analyzing e para executar estes scripts é necessário o uso do Jupyter Notebook, que se você instalou o anaconda já veio com ele.
+
   </p>
   <p>
  
