@@ -1,0 +1,358 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Country Postal Abbreviations</title>
+<meta name="description" content="Postal abbreviations for countries around the world such as US for United States." />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" media="(max-width:640px)" href="/web-common/_includes/css-main-mobile.css">
+<link rel="stylesheet" media="(min-width:641px)" href="/web-common/_includes/css-main.css">
+<script async type="text/javascript" src="/_includes/external.js"></script>
+<script async type="text/javascript" src="/_includes/navigation.js"></script>
+<script async type="text/javascript" src="/_networking/facebook-code.js"></script>
+</head>
+
+<body>
+<div id="header-bar"><div id="header-bar-box">
+<ul class="header-bar-nav">
+<li><a class="header-bar-nav" href="#skip">skip</a></li>
+</ul>
+</div></div>
+<div class="clear"></div>
+<div id="header-nav">
+<div class="logo">Marketing Tools</div>
+</div>
+<div class="clear"></div>
+<div id="header-nav-box">
+<ul class="header-nav-bars">
+<li class="header-nav-bars"><a class="header-nav-bars" href="javascript:toggle();"><img src="/_images/mobile-bars.png" alt="Mobile Menu" /> Menu</a></li>
+</ul>
+<ul class="header-nav" id="navigation">
+<li><a class="header-nav1" href="/web-marketing/">Marketing</a></li>
+<li><a class="header-nav" href="/web-sales-tools/">Sales</a></li>
+<li><a class="header-nav" href="/web-resources/">Resources</a></li>
+<li><a class="header-nav" href="/web-programming/">Programming</a></li>
+<li><a class="header-nav" href="/tools/">Tools</a></li>
+<li><a class="header-nav" href="/web-store/">Shop</a></li>
+</ul>
+</div>
+<div style="clear:both;"></div>
+<div id="all"><div class="tracks">/<a href="/">home</a>/<a href="/web-marketing/">web-marketing</a>/</div>
+<a name="skip"></a><h1>Country Postal Abbreviations</h1>
+<p>Here is a list of the postal abbreviations for country names around the world, such as, US for United States and UK for United Kingdom.</p>
+<div class="ad-response-tall"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ReaLifeWebDesigns.com Responsive 336x280 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1140118096647964"
+     data-ad-slot="5068821477"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<ul>
+<li>AF = Afghanistan</li>
+<li>AL = Albania</li>
+<li>DZ = Algeria</li>
+<li>AX = Aland Islands</li>
+<li>AS = American Samoa</li>
+<li>AI = Anguilla</li>
+<li>AD = Andorra</li>
+<li>AO = Angola</li>
+<li>AN = Antilles - Netherlands </li>
+<li>AG = Antigua and Barbuda</li>
+<li>AQ = Antarctica</li>
+<li>AR = Argentina</li>
+<li>AM = Armenia</li>
+<li>AU = Australia</li>
+<li>AT = Austria</li>
+<li>AW = Aruba</li>
+<li>AZ = Azerbaijan</li>
+<li>BA = Bosnia and Herzegovina</li>
+<li>BB = Barbados</li>
+<li>BD = Bangladesh</li>
+<li>BE = Belgium</li>
+<li>BF = Burkina Faso</li>
+<li>BG = Bulgaria</li>
+<li>BH = Bahrain</li>
+<li>BI = Burundi</li>
+<li>BJ = Benin</li>
+<li>BM = Bermuda</li>
+<li>BN = Brunei Darussalam</li>
+<li>BO = Bolivia</li>
+<li>BR = Brazil</li>
+<li>BS = Bahamas</li>
+<li>BT = Bhutan</li>
+<li>BV = Bouvet Island</li>
+<li>BW = Botswana</li>
+<li>BV = Belarus</li>
+<li>BZ = Belize</li>
+<li>KH = Cambodia</li>
+<li>CM = Cameroon</li>
+<li>CA = Canada</li>
+<li>CV = Cape Verde</li>
+<li>CF = Central African Republic</li>
+<li>TD = Chad</li>
+<li>CL = Chile</li>
+<li>CN = China</li>
+<li>CX = Christmas Island</li>
+<li>CC = Cocos (Keeling) Islands</li>
+<li>CO = Colombia</li>
+<li>CG = Congo</li>
+<li>CI = Cote D'Ivoire (Ivory Coast)</li>
+<li>CK = Cook Islands</li>
+<li>CR = Costa Rica</li>
+<li>HR = Croatia (Hrvatska)</li>
+<li>CU = Cuba</li>
+<li>CY = Cyprus</li>
+<li>CZ = Czech Republic</li>
+<li>CD = Democratic Republic of the Congo</li>
+<li>DJ = Djibouti</li>
+<li>DK = Denmark</li>
+<li>DM = Dominica</li>
+<li>DO = Dominican Republic</li>
+<li>EC = Ecuador</li>
+<li>EG = Egypt</li>
+<li>SV = El Salvador</li>
+<li>TP = East Timor</li>
+<li>EE = Estonia</li>
+<li>GQ = Equatorial Guinea</li>
+<li>ER = Eritrea</li>
+<li>ET = Ethiopia</li>
+<li>FI = Finland</li>
+<li>FJ = Fiji</li>
+<li>FK = Falkland Islands (Malvinas)</li>
+<li>FM = Federated States of Micronesia</li>
+<li>FO = Faroe Islands</li>
+<li>FR = France</li>
+<li>FX = France, Metropolitan</li>
+<li>GF = French Guiana</li>
+<li>PF = French Polynesia</li>
+<li>GA = Gabon</li>
+<li>GM = Gambia</li>
+<li>DE = Germany</li>
+<li>GH = Ghana</li>
+<li>GI = Gibraltar</li>
+<li>GB = Great Britain (UK)</li>
+<li>GD = Grenada</li>
+<li>GE = Georgia</li>
+<li>GR = Greece</li>
+<li>GL = Greenland</li>
+<li>GN = Guinea</li>
+<li>GP = Guadeloupe</li>
+<li>GS = S. Georgia and S. Sandwich Islands</li>
+<li>GT = Guatemala</li>
+<li>GU = Guam</li>
+<li>GW = Guinea-Bissau</li>
+<li>GY = Guyana</li>
+<li>HK = Hong Kong</li>
+<li>HM = Heard Island and McDonald Islands</li>
+<li>HN = Honduras</li>
+<li>HT = Haiti</li>
+<li>HU = Hungary</li>
+<li>ID = Indonesia</li>
+<li>IE = Ireland</li>
+<li>IL = Israel</li>
+<li>IN = India</li>
+<li>IO = British Indian Ocean Territory</li>
+<li>IQ = Iraq</li>
+<li>IR = Iran</li>
+<li>IT = Italy</li>
+<li>JM = Jamaica</li>
+<li>JO = Jordan</li>
+<li>JP = Japan</li>
+<li>KE = Kenya</li>
+<li>KG = Kyrgyzstan</li>
+<li>KI = Kiribati</li>
+<li>KM = Comoros</li>
+<li>KN = Saint Kitts and Nevis</li>
+<li>KP = Korea (North)</li>
+<li>KR = Korea (South)</li>
+<li>KW = Kuwait</li>
+<li>KY = Cayman Islands</li>
+<li>KZ = Kazakhstan</li>
+<li>LA = Laos</li>
+<li>LB = Lebanon</li>
+<li>LC = Saint Lucia</li>
+<li>LI = Liechtenstein</li>
+<li>LK = Sri Lanka</li>
+<li>LR = Liberia</li>
+<li>LS = Lesotho</li>
+<li>LT = Lithuania</li>
+<li>LU = Luxembourg</li>
+<li>LV = Latvia</li>
+<li>LY = Libya</li>
+<li>MK = Macedonia</li>
+<li>MO = Macao</li>
+<li>MG = Madagascar</li>
+<li>MY = Malaysia</li>
+<li>ML = Mali</li>
+<li>MW = Malawi</li>
+<li>MR = Mauritania</li>
+<li>MH = Marshall Islands</li>
+<li>MQ = Martinique</li>
+<li>MU = Mauritius</li>
+<li>YT = Mayotte</li>
+<li>MT = Malta</li>
+<li>MX = Mexico</li>
+<li>MA = Morocco</li>
+<li>MC = Monaco</li>
+<li>MD = Moldova</li>
+<li>MN = Mongolia</li>
+<li>MM = Myanmar</li>
+<li>MP = Northern Mariana Islands</li>
+<li>MS = Montserrat</li>
+<li>MV = Maldives</li>
+<li>MZ = Mozambique</li>
+<li>NA = Namibia</li>
+<li>NC = New Caledonia</li>
+<li>NE = Niger</li>
+<li>NF = Norfolk Island</li>
+<li>NG = Nigeria</li>
+<li>NI = Nicaragua</li>
+<li>NL = Netherlands</li>
+<li>NO = Norway</li>
+<li>NP = Nepal</li>
+<li>NR = Nauru</li>
+<li>NU = Niue</li>
+<li>NZ = New Zealand (Aotearoa)</li>
+<li>OM = Oman</li>
+<li>PA = Panama</li>
+<li>PE = Peru</li>
+<li>PG = Papua New Guinea</li>
+<li>PH = Philippines</li>
+<li>PK = Pakistan</li>
+<li>PL = Poland</li>
+<li>PM = Saint Pierre and Miquelon</li>
+<li>CS = Serbia and Montenegro</li>
+<li>PN = Pitcairn</li>
+<li>PR = Puerto Rico</li>
+<li>PS = Palestinian Territory</li>
+<li>PT = Portugal</li>
+<li>PW = Palau</li>
+<li>PY = Paraguay</li>
+<li>QA = Qatar</li>
+<li>RE = Reunion</li>
+<li>RO = Romania</li>
+<li>RU = Russian Federation</li>
+<li>RW = Rwanda</li>
+<li>SA = Saudi Arabia</li>
+<li>WS = Samoa</li>
+<li>SH = Saint Helena</li>
+<li>VC = Saint Vincent and the Grenadines</li>
+<li>SM = San Marino</li>
+<li>ST = Sao Tome and Principe</li>
+<li>SN = Senegal</li>
+<li>SC = Seychelles</li>
+<li>SL = Sierra Leone</li>
+<li>SG = Singapore</li>
+<li>SK = Slovakia</li>
+<li>SI = Slovenia</li>
+<li>SB = Solomon Islands</li>
+<li>SO = Somalia</li>
+<li>ZA = South Africa</li>
+<li>ES = Spain</li>
+<li>SD = Sudan</li>
+<li>SR = Suriname</li>
+<li>SJ = Svalbard and Jan Mayen</li>
+<li>SE = Sweden</li>
+<li>CH = Switzerland</li>
+<li>SY = Syria</li>
+<li>SU = USSR (former)</li>
+<li>SZ = Swaziland</li>
+<li>TW = Taiwan</li>
+<li>TZ = Tanzania</li>
+<li>TJ = Tajikistan</li>
+<li>TH = Thailand</li>
+<li>TL = Timor-Leste</li>
+<li>TG = Togo</li>
+<li>TK = Tokelau</li>
+<li>TO = Tonga</li>
+<li>TT = Trinidad and Tobago</li>
+<li>TN = Tunisia</li>
+<li>TR = Turkey</li>
+<li>TM = Turkmenistan</li>
+<li>TC = Turks and Caicos Islands</li>
+<li>TV = Tuvalu</li>
+<li>UA = Ukraine</li>
+<li>UG = Uganda</li>
+<li>AE = United Arab Emirates</li>
+<li>UK = United Kingdom</li>
+<li>US = United States</li>
+<li>UM = United States Minor Outlying Islands</li>
+<li>UY = Uruguay</li>
+<li>UZ = Uzbekistan</li>
+<li>VU = Vanuatu</li>
+<li>VA = Vatican City State</li>
+<li>VE = Venezuela</li>
+<li>VG = Virgin Islands (British)</li>
+<li>VI = Virgin Islands (U.S.)</li>
+<li>VN = Viet Nam</li>
+<li>WF = Wallis and Futuna</li>
+<li>EH = Western Sahara</li>
+<li>YE = Yemen</li>
+<li>YU = Yugoslavia (former)</li>
+<li>ZM = Zambia</li>
+<li>ZR = Zaire (former)</li>
+<li>ZW = Zimbabwe</li>
+</ul>
+<div class="clear"></div>
+<div class="ad-response-wide"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ReaLifeWebDesigns.com Responsive 720x90 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1140118096647964"
+     data-ad-slot="4282299470"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div class="clear"></div>
+</div>
+<div style="clear:both;"></div>
+<div id="footer-box">
+<h3 class="footer">ReaLife WebDesigns - Web Development and Management Services</h3>
+<ul class="footer-nav">
+<li><a class="footer-nav" href="/services/">services</a></li>
+<li><a class="footer-nav" href="/testimonials/">testimonials</a></li>
+<li><a class="footer-nav" href="/contact/">contact</a></li>
+<li><a class="footer-nav" href="/calendar/">calendar</a></li>
+<li><a class="footer-nav" href="/web-resources/">resources</a></li>
+<li><a class="footer-nav" href="/tools/">helpful tools</a></li>
+<li><a class="footer-nav" href="/web-store/">store</a></li>
+</ul>
+<div class="btn-facebookL"><div id="fb-root"></div><div class="fb-share-button" data-href="http://www.realifewebdesigns.com/web-marketing/abbreviations-countries.asp"></div></div>
+<div class="clear"></div>
+<h2 class="disclaimer">Disclaimer</h2>
+<p class="disclaimer">All of the content presented on www.realifewebdesigns.com is for informational purposes only. ReaLife WebDesigns does NOT endorses any entity listed on and/or hyperlinked to from this website. Usage of this website constitutes acceptance of all <a href="/terms/">terms of use</a>. Terms of use subject to change without notice.</p>
+</div>
+<div class="clear"></div>
+<div id="footer-bar">
+<div id="footer-bar-box">
+<ul class="footer-bar-nav">
+<li>&copy; 2010-2018 ReaLife WebDesigns. All rights reserved.</li>
+<li><a class="footer-bar-nav" href="/">home</a></li>
+<li><a class="footer-bar-nav" href="/sitemap/">site map</a></li>
+<li><a class="footer-bar-nav" href="/policies/privacy/">privacy</a></li>
+<li><a class="footer-bar-nav" href="/policies/terms/">terms</a></li>
+</ul>
+</div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-228645-1', 'auto');
+  ga('send', 'pageview');
+</script><script type="text/javascript">
+    amzn_assoc_ad_type = "link_enhancement_widget";
+    amzn_assoc_tracking_id = "rlwdbiz-20";
+    amzn_assoc_linkid = "1daabc01bd749f0603a284f5c6efa0d0";
+    amzn_assoc_placement = "";
+    amzn_assoc_marketplace = "amazon";
+    amzn_assoc_region = "US";
+</script>
+<script src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US"></script>
+</body>
+</html>

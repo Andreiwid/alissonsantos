@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Siglas de países e organizações - Manual de Marcas</title>
+<meta name="description" content="Redmine" />
+<meta name="keywords" content="issue,bug,tracker" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="y+5m9uvnHqgd0Y9ibZ21HF0Gs87Nd9FMtR3dw/yyXpM=" name="csrf-token" />
+<link rel='shortcut icon' href='/favicon.ico?1416232785' />
+<link href="/stylesheets/jquery/jquery-ui-1.9.2.css?1416232785" media="all" rel="stylesheet" type="text/css" />
+<link href="/themes/redminecrm/stylesheets/application.css?1418055400" media="all" rel="stylesheet" type="text/css" />
+
+<script src="/javascripts/jquery-1.8.3-ui-1.9.2-ujs-2.0.3.js?1416232785" type="text/javascript"></script>
+<script src="/javascripts/application.js?1416232785" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+$(window).load(function(){ warnLeavingUnsaved('A página atual contem texto que não foi salvo e será perdido se você sair desta página.'); });
+//]]>
+</script>
+<script src="/themes/redminecrm/javascripts/theme.js?1354447279" type="text/javascript"></script>
+<link href="/plugin_assets/redmine_cms/stylesheets/cms.css?1416329415" media="screen" rel="stylesheet" type="text/css" /> 
+
+
+
+  <script src="/plugin_assets/redmine_wiki_extensions/javascripts/jquery.tablesorter.js?1416329415" type="text/javascript"></script>
+  <link href="/plugin_assets/redmine_wiki_extensions/stylesheets/wiki_extensions.css?1416329415" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/plugin_assets/redmine_wiki_extensions/stylesheets/wiki_extensions_print.css?1416329415" media="print" rel="stylesheet" type="text/css" />
+  <script src="/plugin_assets/redmine_wiki_extensions/javascripts/wiki_extensions.js?1416329415" type="text/javascript"></script>
+ <link href="/plugin_assets/redmine_contacts/stylesheets/contacts.css?1416329415" media="screen" rel="stylesheet" type="text/css" />
+<!-- page specific tags -->
+</head>
+<body class="theme-Redminecrm controller-wiki action-show">
+<div id="wrapper">
+<div id="wrapper2">
+<div id="wrapper3">
+<div id="top-menu">
+    <div id="account">
+        <ul><li><a href="/login" class="login">Entrar</a></li></ul>    </div>
+    
+    </div>
+
+<div id="header">
+    <div id="quick-search">
+        <form accept-charset="UTF-8" action="/projects/manual/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+        <input name="wiki_pages" type="hidden" value="1" />
+        <label for='q'>
+          <a href="/projects/manual/search" accesskey="4">Busca</a>:
+        </label>
+        <input accesskey="f" class="small" id="q" name="q" size="20" type="text" />
+</form>        
+    </div>
+
+    <h1>Manual de Marcas</h1>
+
+    <div id="main-menu">
+        <ul><li><a href="/projects/manual/wiki" class="wiki selected">Wiki</a></li></ul>
+    </div>
+</div>
+
+<div id="main" class="">
+    <div id="sidebar">
+          
+<h3>Wiki</h3>
+
+<a href="/projects/manual/wiki">Página inicial</a><br />
+<a href="/projects/manual/wiki/index">Índice por título</a><br />
+<a href="/projects/manual/wiki/date_index">Índice por data</a><br />
+
+
+        
+    </div>
+
+    <div id="content">
+        
+        <div class="contextual">
+  
+  
+  
+  
+  
+  
+
+</div>
+
+<p class="breadcrumb"><a href="/projects/manual/wiki/Manual_de_Marcas">Manual de Marcas</a> » <a href="/projects/manual/wiki/03_Como_formular_pedido_de_registro_ou_peti%C3%A7%C3%A3o_de_marca">03 Como formular pedido de registro ou petição de marca</a> » <a href="/projects/manual/wiki/3%C2%B706_Peticionamento_em_papel">3·06 Peticionamento em papel</a> » </p>
+
+
+<div class="wiki wiki-page">
+  <a name="Siglas-de-países-e-organizações"></a>
+<h2 >Siglas de países e organizações<a href="#Siglas-de-países-e-organizações" class="wiki-anchor">&para;</a></h2>
+
+
+	<table style="width:60%;margin-left:auto;margin-right:auto;">
+		<tr>
+			<td style="width:5%;"><strong>Sigla</strong></td>
+			<td style="width:45%;"><strong>País ou organização internacional</strong></td>
+			<td style="width:5%;"><strong>Sigla</strong></td>
+			<td style="width:45%;"><strong>País ou organização internacional</strong></td>
+		</tr>
+		<tr>
+			<td>AF </td>
+			<td>Afeganistão </td>
+			<td>CL </td>
+			<td>Chile</td>
+		</tr>
+		<tr>
+			<td>ZA </td>
+			<td>Africa do Sul </td>
+			<td>CN </td>
+			<td>China</td>
+		</tr>
+		<tr>
+			<td>AL </td>
+			<td>Albânia </td>
+			<td>CY</td>
+			<td> Chipre</td>
+		</tr>
+		<tr>
+			<td>DE</td>
+			<td> Alemanha </td>
+			<td>CO </td>
+			<td>Colômbia</td>
+		</tr>
+		<tr>
+			<td>AD</td>
+			<td> Andorra </td>
+			<td>KM </td>
+			<td>Comores</td>
+		</tr>
+		<tr>
+			<td>AO</td>
+			<td> Angola</td>
+			<td> CG</td>
+			<td> Congo</td>
+		</tr>
+		<tr>
+			<td>AI </td>
+			<td> Anguilla</td>
+			<td> CI </td>
+			<td>Costa do Marfim</td>
+		</tr>
+		<tr>
+			<td>AQ</td>
+			<td> Antartica</td>
+			<td> CR </td>
+			<td>Costa Rica</td>
+		</tr>
+		<tr>
+			<td>AG</td>
+			<td> Antígua e Barbuda </td>
+			<td>HR</td>
+			<td> Croácia</td>
+		</tr>
+		<tr>
+			<td>AN</td>
+			<td> Antilhas Holandesas</td>
+			<td> CU</td>
+			<td> Cuba</td>
+		</tr>
+		<tr>
+			<td>SA</td>
+			<td> Arábia Saudita </td>
+			<td>DK </td>
+			<td>Dinamarca</td>
+		</tr>
+		<tr>
+			<td>DZ</td>
+			<td> Argélia</td>
+			<td> DJ </td>
+			<td>Djibuti</td>
+		</tr>
+		<tr>
+			<td>AR</td>
+			<td> Argentina </td>
+			<td>DM </td>
+			<td>Dominica</td>
+		</tr>
+		<tr>
+			<td>AM</td>
+			<td> Armênia </td>
+			<td>EG </td>
+			<td>Egito</td>
+		</tr>
+		<tr>
+			<td>AW</td>
+			<td> Aruba </td>
+			<td>SV </td>
+			<td>El Salvador</td>
+		</tr>
+		<tr>
+			<td>AU</td>
+			<td> Austrália </td>
+			<td>AE </td>
+			<td>Emirados Árabes Unidos</td>
+		</tr>
+		<tr>
+			<td>AT</td>
+			<td> Áustria</td>
+			<td> EC </td>
+			<td>Equador</td>
+		</tr>
+		<tr>
+			<td>AZ</td>
+			<td> Azerbaidjão</td>
+			<td> ER</td>
+			<td> Eritréia</td>
+		</tr>
+		<tr>
+			<td>BS</td>
+			<td> Bahamas </td>
+			<td>EM</td>
+			<td> Escritório para Harmonização no Mercado Interno</td>
+		</tr>
+		<tr>
+			<td>BD</td>
+			<td> Bangladesh </td>
+			<td>SK </td>
+			<td>Eslováquia</td>
+		</tr>
+		<tr>
+			<td>BB</td>
+			<td> Barbados </td>
+			<td>SI</td>
+			<td> Eslovenia</td>
+		</tr>
+		<tr>
+			<td>BH</td>
+			<td> Bareine </td>
+			<td>ES </td>
+			<td>Espanha</td>
+		</tr>
+		<tr>
+			<td>BY</td>
+			<td> Belarus</td>
+			<td> US </td>
+			<td>Estados Unidos da América</td>
+		</tr>
+		<tr>
+			<td>BE</td>
+			<td> Bélgica </td>
+			<td>EE</td>
+			<td> Estônia</td>
+		</tr>
+		<tr>
+			<td>BZ</td>
+			<td> Belize</td>
+			<td> ET</td>
+			<td> Etiópia</td>
+		</tr>
+		<tr>
+			<td>BX</td>
+			<td> Benelux </td>
+			<td>RU</td>
+			<td> Federação Russa</td>
+		</tr>
+		<tr>
+			<td>BJ</td>
+			<td> Benin</td>
+			<td> FJ </td>
+			<td>Fiji</td>
+		</tr>
+		<tr>
+			<td>BM</td>
+			<td> Bermudas</td>
+			<td> PH </td>
+			<td>Filipinas</td>
+		</tr>
+		<tr>
+			<td>BO</td>
+			<td> Bolívia </td>
+			<td>FI</td>
+			<td> Finlândia</td>
+		</tr>
+		<tr>
+			<td>BA</td>
+			<td> Bósnia e Herzegóvina </td>
+			<td>FR </td>
+			<td>França</td>
+		</tr>
+		<tr>
+			<td>BW</td>
+			<td> Botswana </td>
+			<td>GA </td>
+			<td>Gabão</td>
+		</tr>
+		<tr>
+			<td>BR</td>
+			<td> Brasil </td>
+			<td>GM</td>
+			<td> Gambia</td>
+		</tr>
+		<tr>
+			<td>BG</td>
+			<td>Bulgária </td>
+			<td>GE </td>
+			<td>Geórgia</td>
+		</tr>
+		<tr>
+			<td>BN</td>
+			<td> Brunei Darussalam </td>
+			<td>GH</td>
+			<td> Gana</td>
+		</tr>
+		<tr>
+			<td>BF</td>
+			<td> Burkina Faso </td>
+			<td>GS </td>
+			<td>Geórgia do Sul e Ilhas Sandwich do Sul</td>
+		</tr>
+		<tr>
+			<td>BI</td>
+			<td> Burundi </td>
+			<td>GI </td>
+			<td>Gibraltar</td>
+		</tr>
+		<tr>
+			<td>BT</td>
+			<td> Butão </td>
+			<td>GD</td>
+			<td> Granada</td>
+		</tr>
+		<tr>
+			<td>CV</td>
+			<td> Cabo Verde </td>
+			<td>GR</td>
+			<td> Grécia</td>
+		</tr>
+		<tr>
+			<td>CM</td>
+			<td> Camarões </td>
+			<td>GL </td>
+			<td> Groenlândia</td>
+		</tr>
+		<tr>
+			<td>KH</td>
+			<td> Camboja </td>
+			<td>GP</td>
+			<td> Guadalupe</td>
+		</tr>
+		<tr>
+			<td>CA</td>
+			<td> Canadá </td>
+			<td>GU</td>
+			<td> Guam</td>
+		</tr>
+		<tr>
+			<td>QA</td>
+			<td> Catar </td>
+			<td>GT</td>
+			<td> Guatemala</td>
+		</tr>
+		<tr>
+			<td>KZ</td>
+			<td> Cazaquistão </td>
+			<td>GY</td>
+			<td> Guiana</td>
+		</tr>
+		<tr>
+			<td>TD</td>
+			<td> Chade </td>
+			<td>GN</td>
+			<td> Guine</td>
+		</tr>
+		<tr>
+			<td>GW</td>
+			<td> Guiné Bissau </td>
+			<td>JO</td>
+			<td> Jordânia</td>
+		</tr>
+		<tr>
+			<td>GQ</td>
+			<td> Guine Equatorial </td>
+			<td>KI</td>
+			<td> Kiribati</td>
+		</tr>
+		<tr>
+			<td>HT</td>
+			<td> Haiti </td>
+			<td>KW</td>
+			<td> Kuwait</td>
+		</tr>
+		<tr>
+			<td>NL</td>
+			<td> Holanda </td>
+			<td>LA</td>
+			<td> Laos</td>
+		</tr>
+		<tr>
+			<td>HN</td>
+			<td> Honduras </td>
+			<td>LS</td>
+			<td> Lesoto</td>
+		</tr>
+		<tr>
+			<td>HK</td>
+			<td> Hong-Kong </td>
+			<td>LV</td>
+			<td> Letônia</td>
+		</tr>
+		<tr>
+			<td>HU</td>
+			<td> Hungria </td>
+			<td>LB</td>
+			<td> Líbano</td>
+		</tr>
+		<tr>
+			<td>YE</td>
+			<td> Iêmen </td>
+			<td>LR</td>
+			<td> Libéria</td>
+		</tr>
+		<tr>
+			<td>BV</td>
+			<td> Ilha Bouvet </td>
+			<td>LY</td>
+			<td> Líbia</td>
+		</tr>
+		<tr>
+			<td>IM</td>
+			<td> Ilha do Homem </td>
+			<td>LI</td>
+			<td> Liechtenstein</td>
+		</tr>
+		<tr>
+			<td>CX</td>
+			<td> Ilha Natal </td>
+			<td>LT</td>
+			<td> Lituânia</td>
+		</tr>
+		<tr>
+			<td>NF</td>
+			<td> Ilha Norfalk </td>
+			<td>LU</td>
+			<td> Luxemburgo</td>
+		</tr>
+		<tr>
+			<td>KY</td>
+			<td> Ilhas Cayman </td>
+			<td>MO</td>
+			<td> Macau</td>
+		</tr>
+		<tr>
+			<td>CC</td>
+			<td> Ilhas Cocos </td>
+			<td>MG</td>
+			<td> Madagascar</td>
+		</tr>
+		<tr>
+			<td>CK</td>
+			<td> Ilhas Cook </td>
+			<td>MY</td>
+			<td> Malásia</td>
+		</tr>
+		<tr>
+			<td>GG</td>
+			<td> Ilhas do Canal </td>
+			<td>MW</td>
+			<td> Malawi</td>
+		</tr>
+		<tr>
+			<td>FO</td>
+			<td> Ilhas Faroe </td>
+			<td>MV</td>
+			<td> Maldivas</td>
+		</tr>
+		<tr>
+			<td>HM</td>
+			<td> Ilhas Heard e McDonald</td>
+			<td> ML</td>
+			<td> Mali</td>
+		</tr>
+		<tr>
+			<td>FK</td>
+			<td> Ilhas Malvinas </td>
+			<td>MT</td>
+			<td> Malta</td>
+		</tr>
+		<tr>
+			<td>MP</td>
+			<td> Ilhas Marianas do Norte </td>
+			<td>MA</td>
+			<td> Marrocos</td>
+		</tr>
+		<tr>
+			<td>MH</td>
+			<td> Ilhas Marshall </td>
+			<td>MQ</td>
+			<td> Martinica</td>
+		</tr>
+		<tr>
+			<td>UM</td>
+			<td> Ilhas Menores </td>
+			<td>MU</td>
+			<td> Maurício</td>
+		</tr>
+		<tr>
+			<td>SB</td>
+			<td> Ilhas Salomão </td>
+			<td>MR</td>
+			<td> Mauritânia</td>
+		</tr>
+		<tr>
+			<td>TC</td>
+			<td> Ilhas Turks e Caicos </td>
+			<td>MX</td>
+			<td> México</td>
+		</tr>
+		<tr>
+			<td>VG</td>
+			<td> Ilhas Virgens (Britânicas) </td>
+			<td>MM</td>
+			<td> Mianmá</td>
+		</tr>
+		<tr>
+			<td>VI</td>
+			<td> Ilhas Virgens (U.S.) </td>
+			<td>FM</td>
+			<td> Micronésia</td>
+		</tr>
+		<tr>
+			<td>WF</td>
+			<td> Ilhas Wallis e Futura </td>
+			<td>MZ</td>
+			<td> Moçambique</td>
+		</tr>
+		<tr>
+			<td>IN</td>
+			<td> India </td>
+			<td>MC</td>
+			<td> Mônaco</td>
+		</tr>
+		<tr>
+			<td>ID</td>
+			<td> Indonésia </td>
+			<td>MN</td>
+			<td> Mongólia</td>
+		</tr>
+		<tr>
+			<td>IR</td>
+			<td> Irã </td>
+			<td>MS</td>
+			<td> Mont Serrat</td>
+		</tr>
+		<tr>
+			<td>IQ</td>
+			<td> Iraque </td>
+			<td>ME</td>
+			<td> Montenegro</td>
+		</tr>
+		<tr>
+			<td>IE</td>
+			<td> Irlanda </td>
+			<td>NA</td>
+			<td> Namíbia</td>
+		</tr>
+		<tr>
+			<td>IS</td>
+			<td> Islândia </td>
+			<td>NR</td>
+			<td> Nauru</td>
+		</tr>
+		<tr>
+			<td>IL</td>
+			<td> Israel </td>
+			<td>NP</td>
+			<td> Nepal</td>
+		</tr>
+		<tr>
+			<td>ID</td>
+			<td> Indonésia </td>
+			<td>NI</td>
+			<td> Nicarágua</td>
+		</tr>
+		<tr>
+			<td>IR</td>
+			<td> Irã </td>
+			<td>NE</td>
+			<td> Níger</td>
+		</tr>
+		<tr>
+			<td>IQ</td>
+			<td> Iraque </td>
+			<td>NG</td>
+			<td> Nigéria</td>
+		</tr>
+		<tr>
+			<td>IE</td>
+			<td> Irlanda </td>
+			<td>NO</td>
+			<td> Noruega</td>
+		</tr>
+		<tr>
+			<td>IS</td>
+			<td> Islândia </td>
+			<td>NC</td>
+			<td> Nova Caledônia</td>
+		</tr>
+		<tr>
+			<td>IL</td>
+			<td> Israel </td>
+			<td>NZ</td>
+			<td> Nova Zelândia</td>
+		</tr>
+		<tr>
+			<td>IT</td>
+			<td> Itália </td>
+			<td>OM</td>
+			<td> Omã</td>
+		</tr>
+		<tr>
+			<td>JM</td>
+			<td> Jamaica </td>
+			<td>OA</td>
+			<td> Organização Africana de Propriedade Intelectual (OAPI)</td>
+		</tr>
+		<tr>
+			<td>JP</td>
+			<td> Japão </td>
+			<td>WO</td>
+			<td> Organização Mundial de Propriedade Intelectual – OMPI (WIPO)</td>
+		</tr>
+		<tr>
+			<td>JE</td>
+			<td> Jersey</td>
+			<td> AP</td>
+			<td> Organização Regional de Propriedade Industrial Africana</td>
+		</tr>
+		<tr>
+			<td>PW</td>
+			<td> Palau </td>
+			<td>SE</td>
+			<td> Suécia</td>
+		</tr>
+		<tr>
+			<td>PA</td>
+			<td> Panamá </td>
+			<td>CH</td>
+			<td> Suíça</td>
+		</tr>
+		<tr>
+			<td>PG</td>
+			<td> Papua Nova Guiné </td>
+			<td>SR</td>
+			<td> Suriname</td>
+		</tr>
+		<tr>
+			<td>PK</td>
+			<td> Paquistão </td>
+			<td>SJ</td>
+			<td> Svalbard e Jan Mayen</td>
+		</tr>
+		<tr>
+			<td>PY</td>
+			<td> Paraguai </td>
+			<td>TJ</td>
+			<td> Tadjiquistão</td>
+		</tr>
+		<tr>
+			<td>PE</td>
+			<td> Peru </td>
+			<td>TH</td>
+			<td> Tailândia</td>
+		</tr>
+		<tr>
+			<td>PN</td>
+			<td> Pitcairn </td>
+			<td>TW</td>
+			<td> Taiwan</td>
+		</tr>
+		<tr>
+			<td>PF</td>
+			<td> Polinésia Francesa </td>
+			<td>TF</td>
+			<td> Terras Austrais Francesas</td>
+		</tr>
+		<tr>
+			<td>PL</td>
+			<td> Polônia </td>
+			<td>IO</td>
+			<td> Territ.Britan.Oceano Índico</td>
+		</tr>
+		<tr>
+			<td>PR</td>
+			<td> Porto Rico </td>
+			<td>PS</td>
+			<td> Território Ocupado Palestino</td>
+		</tr>
+		<tr>
+			<td>PT</td>
+			<td> Portugal </td>
+			<td>TL</td>
+			<td> Timor-Leste</td>
+		</tr>
+		<tr>
+			<td>KE</td>
+			<td> Quênia </td>
+			<td>TG</td>
+			<td> Togo</td>
+		</tr>
+		<tr>
+			<td>KG</td>
+			<td> Quirguistão </td>
+			<td>TK</td>
+			<td> Tokelau</td>
+		</tr>
+		<tr>
+			<td>GB</td>
+			<td> Reino Unido </td>
+			<td>TO</td>
+			<td> Tonga</td>
+		</tr>
+		<tr>
+			<td>CF</td>
+			<td> República Centro Africana </td>
+			<td>TT</td>
+			<td> Trinidad e Tobago</td>
+		</tr>
+		<tr>
+			<td>KR</td>
+			<td> República da Coréia </td>
+			<td>TN</td>
+			<td> Tunísia</td>
+		</tr>
+		<tr>
+			<td>MK</td>
+			<td> República da Macedonia </td>
+			<td>TM</td>
+			<td> Turcomenistão</td>
+		</tr>
+		<tr>
+			<td>MD</td>
+			<td> República da Moldova </td>
+			<td>TR</td>
+			<td> Turquia</td>
+		</tr>
+		<tr>
+			<td>CD</td>
+			<td> República Dem. Do Congo </td>
+			<td>TV</td>
+			<td> Tuvalu</td>
+		</tr>
+		<tr>
+			<td>DO</td>
+			<td> República Dominicana </td>
+			<td>UA</td>
+			<td> Ucrânia</td>
+		</tr>
+		<tr>
+			<td>KP</td>
+			<td> República Pop. Dem. da Coreia </td>
+			<td>UG</td>
+			<td> Uganda</td>
+		</tr>
+		<tr>
+			<td>CZ</td>
+			<td> República Tcheca </td>
+			<td>UY</td>
+			<td> Uruguai</td>
+		</tr>
+		<tr>
+			<td>TZ</td>
+			<td> República Unida da Tanzânia </td>
+			<td>UZ</td>
+			<td> Uzbequistão</td>
+		</tr>
+		<tr>
+			<td>RE</td>
+			<td> Reunião </td>
+			<td>VU</td>
+			<td> Vanuatu</td>
+		</tr>
+		<tr>
+			<td>RO</td>
+			<td> Romênia </td>
+			<td>VA</td>
+			<td> Vaticano</td>
+		</tr>
+		<tr>
+			<td>RW</td>
+			<td> Ruanda </td>
+			<td>VE</td>
+			<td> Venezuela</td>
+		</tr>
+		<tr>
+			<td>EH</td>
+			<td> Saara Ocidental </td>
+			<td>VN</td>
+			<td> Vietnã</td>
+		</tr>
+		<tr>
+			<td>PM</td>
+			<td> Saint Pierre e Miquelon </td>
+			<td>YU</td>
+			<td> Yugoslávia</td>
+		</tr>
+		<tr>
+			<td>AS</td>
+			<td> Samoa Americana </td>
+			<td>ZR</td>
+			<td> Zaire</td>
+		</tr>
+		<tr>
+			<td>WS</td>
+			<td> Samoa Ocidental </td>
+			<td>ZM</td>
+			<td> Zâmbia</td>
+		</tr>
+		<tr>
+			<td>SH</td>
+			<td> Santa Helena </td>
+			<td>ZW</td>
+			<td> Zimbábue</td>
+		</tr>
+		<tr>
+			<td>LC</td>
+			<td> Santa Lúcia</td>
+			<td> KN</td>
+			<td> São Cristovão e Nevis</td>
+		</tr>
+		<tr>
+			<td>SM</td>
+			<td> São Marino</td>
+			<td> ST</td>
+			<td> São Tomé e Príncipe</td>
+		</tr>
+		<tr>
+			<td>VC</td>
+			<td> São Vicente e Granadinas</td>
+			<td>SN</td>
+			<td> Senegal</td>
+		</tr>
+		<tr>
+			<td>SL</td>
+			<td> Serra Leoa</td>
+			<td> RS</td>
+			<td> Sérvia</td>
+		</tr>
+		<tr>
+			<td>SC</td>
+			<td> Seychelles</td>
+			<td> SG</td>
+			<td> Singapura</td>
+		</tr>
+		<tr>
+			<td>SY</td>
+			<td> Síria </td>
+			<td> SO</td>
+			<td> Somália</td>
+		</tr>
+		<tr>
+			<td>LK</td>
+			<td> Sri Lanka </td>
+			<td>SZ</td>
+			<td> Suazilândia</td>
+		</tr>
+		<tr>
+			<td>SD</td>
+			<td> Sudão</td>
+		</tr>
+	</table>
+
+
+
+
+	<p></p>
+</div>
+
+
+
+
+
+
+
+
+        
+        <div style="clear:both;"></div>
+    </div>
+</div>
+</div>
+
+<div id="ajax-indicator" style="display:none;"><span>Carregando...</span></div>
+<div id="ajax-modal" style="display:none;"></div>
+
+<div id="footer">
+  <div class="bgl"><div class="bgr">
+    Powered by <a href="http://www.redmine.org/">Redmine</a> &copy; 2006-2013 Jean-Philippe Lang
+  </div></div>
+</div>
+</div>
+</div>
+ 
+
+
+    <script type="text/javascript">
+
+
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+wiki_extension_create_table_header();
+//]]>
+</script>
+
+
+</body>
+</html>
