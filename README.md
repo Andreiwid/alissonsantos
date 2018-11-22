@@ -15,7 +15,7 @@
 <p>
  
  # Instruções: <br />
- ## Para este trabalho foi utilizado o anaconda <br />
+ ## Para este trabalho foi utilizado o anaconda3-5.2.0 <br />
  Para a instalação das bibliotecas utilizadas utilizei este [tutorial](http://blog.abraseucodigo.com.br/instalando-qualquer-versao-do-python-no-linux-macosx-utilizando-pyenv.html)
  ## Este projeto esta dividido em duas partes
  </p>
