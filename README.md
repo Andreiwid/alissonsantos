@@ -23,7 +23,7 @@
  
  ### A primeira esta no diretório find_data e é onde é realizado o download e rastreio de URLs com a sigla .gov na base de dados do Common Crawl.
  </p>
- Para rodar a primeira parte após o download do projeto vá entre via terminal no diretório tcc_codigo_py lá deve ter o arquivo start.py se estiver digite o comando: python start.py. <br />
+ Para rodar a primeira parte após o download do projeto vá entre via terminal no diretório find_data lá deve ter o arquivo start.py se estiver digite o comando: python start.py. <br />
  Para a execução do programa é necessário criar um banco de dados e uma tabela, os detalhes da tabela, os detalhes estão no trabalho escrito, onde o link se encontra no fim deste README.  
  <br />
   
