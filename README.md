@@ -21,9 +21,10 @@
  </p>
  <p>
  
- ### A primeira esta no diretório tcc_codigo_py e é onde é feito o download e rastreio de URLs com a sigla .gov na base de dados do Common Crawl.
+ ### A primeira esta no diretório tcc_codigo_py e é onde é realizado o download e rastreio de URLs com a sigla .gov na base de dados do Common Crawl.
  </p>
- Para rodar a primeira parte após o download do projeto vá entre via terminal no diretório tcc_codigo_py lá deve ter o arquivo start.py se estiver digite o comando: python start.py
+ Para rodar a primeira parte após o download do projeto vá entre via terminal no diretório tcc_codigo_py lá deve ter o arquivo start.py se estiver digite o comando: python start.py. <br />
+ Para rodar é necessário criar um banco de dados e uma tabela, os detalhes da da tabela, os detalhes estão no trabalho escrito, onde o link se encontra no fim deste README.  
  <br />
  
  ## A segunda que é analisado se as URLs .gov respondem a alguma assinatura, (para mais detalhes por favor leia o pdf do TCC).  
@@ -35,5 +36,5 @@
   </p>
   <p>
  
-  ### Para mais detalhes sobre o projeto favor leia o [trabalho escrito](https://docs.google.com/document/d/1Rnm1o6pwQ0HBrMlZ0KMOCtn5zw-xkVKm0rUkhIT0Tqw/edit?usp=sharing).
+  ##### Para mais detalhes sobre o projeto favor leia o [trabalho escrito](https://docs.google.com/document/d/1Rnm1o6pwQ0HBrMlZ0KMOCtn5zw-xkVKm0rUkhIT0Tqw/edit?usp=sharing).
 </p>
